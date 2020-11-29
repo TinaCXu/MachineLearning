@@ -4,11 +4,11 @@
 ## Udemy - Machine Learning, Data Science and Deep Learning with Python
  The final project:mammographic masses of Udemy courses
 
-### *Evaluated the correlation of missing values & data cleanning & normalization*
-<img src="https://github.com/TinaCXu/MachineLearning/tree/master/readme_pics/corre.png" />
-<img src="https://github.com/TinaCXu/MachineLearning/tree/master/readme_pics/clean_af.png" />
+### *1.Evaluated the correlation of missing values & data cleanning & normalization*
+![corre](https://github.com/TinaCXu/MachineLearning/tree/master/readme_pics/corre.png "corre")
+![clean_after](https://github.com/TinaCXu/MachineLearning/tree/master/readme_pics/clean_af.png "clean")
 
-### *Accuracy of different model*
+### *2.Accuracy of different model*
 | **Model**                  | **Accuracy**|
 | :--------------------------| ----------: |
 | Decision tree              | 0.7373 |
@@ -22,20 +22,20 @@
 ## Standard & Poor's rating
  Analyzed and predicted the importance of different factors to the Standard & Poor's rating of companies through machine learning
 
-### *Feature Engineering*
+### *1.Feature Engineering*
  * Normalization
  * Remove useless parameters
  * Covert string type parameters into integers
 
-### *Balance the data*
+### *2.Balance the data*
 
-### *Accuracy of different model*
+### *3.Accuracy of different model*
 | **Model**                  | **Accuracy**|
 | :--------------------------| ----------: |
 | BaggingClassifier          | 0.23 |
 | Random forest              | 0.30 |
 | SVM                        | 0.22 |
 
-### *Analysis*
+### *4.Analysis*
  * Influnced by unbalanced data: major level BBB, especially level BBB-. The confusion matrix of the SVM models is almost concentrated in the fifth column, the precision is 0.16, and the recall is 1.0
- * Sample data is not enough
+ * Sample data is not enough, limit the performance of machine learning
