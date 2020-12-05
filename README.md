@@ -5,8 +5,6 @@
  The final project:mammographic masses of Udemy courses
 
 ### *1.Evaluated the correlation of missing values & data cleanning & normalization*
-![corre](https://github.com/TinaCXu/MachineLearning/tree/master/readme_pics/corre.png "corre")
-![clean_after](https://github.com/TinaCXu/MachineLearning/tree/master/readme_pics/clean_af.png "clean")
 
 ### *2.Accuracy of different model*
 | **Model**                  | **Accuracy**|
